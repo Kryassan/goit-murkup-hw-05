@@ -50,6 +50,7 @@ img {
   width: auto;
   height: 80px;
   background: #FFFFFF;
+  border-bottom: 1px solid #ECECEC;
 }
 
 .header .header-menu {
@@ -742,11 +743,6 @@ img {
 .portfolio-box .link:hover,
 .portfolio-box .link:focus {
   box-shadow:  1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
-}
-
-.portfolio-box .link:hover .project-name,
-.portfolio-box .link:focus .project-name {
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .portfolio-box .box-content {
